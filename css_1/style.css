@@ -1,0 +1,32 @@
+
+body {
+    font-family: Arial, sans-serif;   
+    margin: 10px; 
+    background-color: #333; 
+}
+
+h1 {
+    font-size: 24px; /sizing property/
+    margin: 10px 0; /margin/
+}
+
+p {
+    font-size: 16px; /sizing property/
+    padding: 5px; /padding/
+}
+
+ul {
+    margin: 10px; /margin/
+    padding: 5px; /padding/
+}
+
+li {
+    font-size: 14px;
+    margin: 5px 0; 
+}
+
+footer {
+    font-size: 12px; /sizing property/
+    color: #666; /color/
+    margin-top: 10px; /margin/
+}
